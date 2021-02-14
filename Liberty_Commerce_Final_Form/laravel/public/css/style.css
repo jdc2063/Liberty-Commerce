@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+}
+
+body.login {
+    display: grid;
+    grid-template-rows: 50px 10px 550px 10px 50px;
+    background-color:aliceblue;
+}
+
+h2.header {
+    margin: 0;
+}
+
+h3.header {
+    margin: 0;
+}
+
+name_site {
+    grid-column: 1;
+    margin-top: 10px;
+}
+
+name_page {
+    grid-column: 2;
+    margin-top: 10px;
+}
+
+name_user {
+    grid-column: 3;
+    margin-top: 10px;
+    text-align: right;
+    margin: 0;
+    margin-top: 10px;
+}
+
+main.login {
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+    grid-row: 3;
+}
+
+section.center {
+    display: grid;
+    grid-template-rows: 25% 50% 25%;
+    grid-column: 2;
+}
+
+div.login {
+    grid-row: 2;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer.login {
+    grid-row: 5;
+}

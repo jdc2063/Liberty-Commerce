@@ -1,0 +1,5 @@
+INSERT INTO citation (`number`, `citation`, `reponse`, `arc`, `image`, `coeur`, `triste`, `epique`, `drole`, `created_at`, `updated_at`)
+VALUES
+  ;        ;       ; 1;zezqeq;0;0;0;0;NULL;NULL 
+
+  ;        ;       ; 1;zezqeq;1;0;0;0;NULL;NULL 
